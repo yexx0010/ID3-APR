@@ -1,0 +1,110 @@
+Number of Transactions: 435
+Number of Items/Columns: 16
+Min Support: 0.3
+-----------------------------------------------------------
+Column values considered as True:
+	Column1: y
+	Column2: y
+	Column3: y
+	Column4: y
+	Column5: y
+	Column6: y
+	Column7: y
+	Column8: y
+	Column9: y
+	Column10: y
+	Column11: y
+	Column12: y
+	Column13: y
+	Column14: y
+	Column15: y
+	Column16: y
+
+---------------Frequency 1-itemsets ---------------
+frequency-itemset 1: [2]		#ofT: 187		sup: 0.430
+frequency-itemset 2: [3]		#ofT: 195		sup: 0.448
+frequency-itemset 3: [4]		#ofT: 253		sup: 0.582
+frequency-itemset 4: [5]		#ofT: 177		sup: 0.407
+frequency-itemset 5: [6]		#ofT: 212		sup: 0.487
+frequency-itemset 6: [7]		#ofT: 272		sup: 0.625
+frequency-itemset 7: [8]		#ofT: 239		sup: 0.549
+frequency-itemset 8: [9]		#ofT: 242		sup: 0.556
+frequency-itemset 9: [10]		#ofT: 207		sup: 0.476
+frequency-itemset 10: [11]		#ofT: 216		sup: 0.497
+frequency-itemset 11: [12]		#ofT: 150		sup: 0.345
+frequency-itemset 12: [13]		#ofT: 171		sup: 0.393
+frequency-itemset 13: [14]		#ofT: 209		sup: 0.480
+frequency-itemset 14: [15]		#ofT: 248		sup: 0.570
+frequency-itemset 15: [16]		#ofT: 174		sup: 0.400
+
+---------------Frequency 2-itemsets ---------------
+frequency-itemset 1: [2 4]		#ofT: 151		sup: 0.347
+frequency-itemset 2: [2 8]		#ofT: 140		sup: 0.322
+frequency-itemset 3: [2 9]		#ofT: 146		sup: 0.336
+frequency-itemset 4: [3 7]		#ofT: 137		sup: 0.315
+frequency-itemset 5: [4 8]		#ofT: 201		sup: 0.462
+frequency-itemset 6: [4 9]		#ofT: 215		sup: 0.494
+frequency-itemset 7: [4 10]		#ofT: 180		sup: 0.414
+frequency-itemset 8: [4 16]		#ofT: 151		sup: 0.347
+frequency-itemset 9: [5 6]		#ofT: 168		sup: 0.386
+frequency-itemset 10: [5 7]		#ofT: 160		sup: 0.368
+frequency-itemset 11: [5 13]		#ofT: 141		sup: 0.324
+frequency-itemset 12: [5 14]		#ofT: 145		sup: 0.333
+frequency-itemset 13: [5 15]		#ofT: 168		sup: 0.386
+frequency-itemset 14: [6 7]		#ofT: 197		sup: 0.453
+frequency-itemset 15: [6 13]		#ofT: 149		sup: 0.343
+frequency-itemset 16: [6 14]		#ofT: 170		sup: 0.391
+frequency-itemset 17: [6 15]		#ofT: 194		sup: 0.446
+frequency-itemset 18: [7 11]		#ofT: 146		sup: 0.336
+frequency-itemset 19: [7 13]		#ofT: 159		sup: 0.366
+frequency-itemset 20: [7 14]		#ofT: 186		sup: 0.428
+frequency-itemset 21: [7 15]		#ofT: 214		sup: 0.492
+frequency-itemset 22: [8 9]		#ofT: 210		sup: 0.483
+frequency-itemset 23: [8 10]		#ofT: 182		sup: 0.418
+frequency-itemset 24: [8 16]		#ofT: 145		sup: 0.333
+frequency-itemset 25: [9 10]		#ofT: 192		sup: 0.441
+frequency-itemset 26: [9 16]		#ofT: 151		sup: 0.347
+frequency-itemset 27: [11 15]		#ofT: 137		sup: 0.315
+frequency-itemset 28: [13 14]		#ofT: 139		sup: 0.320
+frequency-itemset 29: [13 15]		#ofT: 158		sup: 0.363
+frequency-itemset 30: [14 15]		#ofT: 177		sup: 0.407
+
+---------------Frequency 3-itemsets ---------------
+frequency-itemset 1: [2 4 9]		#ofT: 137		sup: 0.315
+frequency-itemset 2: [4 8 9]		#ofT: 187		sup: 0.430
+frequency-itemset 3: [4 8 10]		#ofT: 161		sup: 0.370
+frequency-itemset 4: [4 9 10]		#ofT: 171		sup: 0.393
+frequency-itemset 5: [4 9 16]		#ofT: 138		sup: 0.317
+frequency-itemset 6: [5 6 7]		#ofT: 156		sup: 0.359
+frequency-itemset 7: [5 6 13]		#ofT: 138		sup: 0.317
+frequency-itemset 8: [5 6 14]		#ofT: 141		sup: 0.324
+frequency-itemset 9: [5 6 15]		#ofT: 160		sup: 0.368
+frequency-itemset 10: [5 7 13]		#ofT: 133		sup: 0.306
+frequency-itemset 11: [5 7 14]		#ofT: 136		sup: 0.313
+frequency-itemset 12: [5 7 15]		#ofT: 151		sup: 0.347
+frequency-itemset 13: [5 13 15]		#ofT: 136		sup: 0.313
+frequency-itemset 14: [5 14 15]		#ofT: 139		sup: 0.320
+frequency-itemset 15: [6 7 13]		#ofT: 141		sup: 0.324
+frequency-itemset 16: [6 7 14]		#ofT: 160		sup: 0.368
+frequency-itemset 17: [6 7 15]		#ofT: 180		sup: 0.414
+frequency-itemset 18: [6 13 14]		#ofT: 131		sup: 0.301
+frequency-itemset 19: [6 13 15]		#ofT: 144		sup: 0.331
+frequency-itemset 20: [6 14 15]		#ofT: 162		sup: 0.372
+frequency-itemset 21: [7 13 14]		#ofT: 132		sup: 0.303
+frequency-itemset 22: [7 13 15]		#ofT: 148		sup: 0.340
+frequency-itemset 23: [7 14 15]		#ofT: 166		sup: 0.382
+frequency-itemset 24: [8 9 10]		#ofT: 173		sup: 0.398
+frequency-itemset 25: [8 9 16]		#ofT: 135		sup: 0.310
+frequency-itemset 26: [13 14 15]		#ofT: 133		sup: 0.306
+
+---------------Frequency 4-itemsets ---------------
+frequency-itemset 1: [4 8 9 10]		#ofT: 155		sup: 0.356
+frequency-itemset 2: [5 6 7 14]		#ofT: 133		sup: 0.306
+frequency-itemset 3: [5 6 7 15]		#ofT: 148		sup: 0.340
+frequency-itemset 4: [5 6 13 15]		#ofT: 133		sup: 0.306
+frequency-itemset 5: [5 6 14 15]		#ofT: 136		sup: 0.313
+frequency-itemset 6: [6 7 13 15]		#ofT: 136		sup: 0.313
+frequency-itemset 7: [6 7 14 15]		#ofT: 153		sup: 0.352
+
+---------------Frequency 5-itemsets ---------------
+
